@@ -1,0 +1,24 @@
+0.0  Status of Netiquette 2020
+
+This document is a work-in-progress draft outlining a minimum set of guidelines for Network Etiquette (Netiquette) which organizations, individuals, and administrators may take and adapt for their own use.  As such, it is written in a bulleted format to make adaptation easier and to make any particular item easy to find.
+
+It is inspired by the original, 1995 Netiquette document (originally published by Sally Hambridge), but written from scratch with a focus on technology, network, and social needs of the year 2020.
+
+The original 1995 Netiquette, for reference, can be found at the following location:
+https://www.rfc-editor.org/rfc/rfc1855.txt
+
+Table of Contents
+
+1.0  Introduction
+
+As the population using the Internet has grown dramatically over the years, and the frequency of communication using the Internet has increased, so to has the need for a base set of rules and general etiquette for utilizing, and communicating on, these systems.  This document aims too fill that need with a simple, easy to reference set of necessary "Netiquette."
+
+2.0  One-to-One Communication (E-Mail, Messaging)
+
+
+3.0  One-to-Many Communication (Mailing Lists, Social Media)
+
+
+4.0  Information Services (Search, Wiki)
+
+
