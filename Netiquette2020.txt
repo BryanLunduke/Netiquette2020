@@ -4,8 +4,9 @@ This document is a work-in-progress draft outlining a minimum set of guidelines 
 
 It is inspired by the original, 1995 Netiquette document (originally published by Sally Hambridge), but written from scratch with a focus on technology, network, and social needs of the year 2020.
 
-The original 1995 Netiquette, for reference, can be found at the following location:
-https://www.rfc-editor.org/rfc/rfc1855.txt
+The original 1995 Netiquette, for reference, can be found at the following locations:
+- https://www.rfc-editor.org/rfc/rfc1855.txt
+- https://www.ietf.org/rfc/rfc1855.txt
 
 Table of Contents
 
@@ -13,12 +14,81 @@ Table of Contents
 
 As the population using the Internet has grown dramatically over the years, and the frequency of communication using the Internet has increased, so to has the need for a base set of rules and general etiquette for utilizing, and communicating on, these systems.  This document aims too fill that need with a simple, easy to reference set of necessary "Netiquette."
 
-2.0  One-to-One Communication (E-Mail, Messaging)
+2.0  One-to-One Communication (E-Mail, Messaging, Videoconferencing)
+
+2.1 For mail
+
+2.1.1 Privacy and security
+
+Unless you are using encryption, you should assume that e-mail is not secure: neither its transmission, nor its storage. E-mail is generally transmitted in clear on the Internet and stored at your E-mail provider either in clear or in an encrypted form but can be accessible at any moment by your E-mail provider.
+
+Even if E-mail messages are stored and transmitted in clear, they must be considered private. This means, if you wish to transmit a message you have received to a third party, you should ask permission first. You may not modify the wording however you may quote only the relevant parts without changing the meaning of the message. Be sure to give proper attribution.
+
+Always check the To, Cc and Bcc fields. A message you have been Cc'ed is for your information. You are not required to answer it. On the other side, if you Cc someone, do not expect an answer. Bcc stands for /blind carbon copy/. A Bcc'ed message must not be forwarded. You shall not use the Reply to all button on a message, which is Bcc'ed to you.
 
 
-3.0  One-to-Many Communication (Mailing Lists, Social Media)
+2.1.2 Format
+
+An E-mail must have a pertinent subject line. Keep in mind that often Subject lines are not encrypted and pop up on the recipient's screen. Do not include confidential information on Subject lines. 
+
+Modern computer programs allow us to be creative in the formatting of our messages with custom backgrounds, fonts and embedded images.
+
+You should keep your message readable and avoid distraction. Use Plain Text if possible. If you use HTML formatting, keep the fonts sober and do not abuse colors.
+
+Remember that some mailers do not support HTML formatting. 
+
+Do not under any circumstances use Comic Sans as a fond.
+
+An E-mail being comparable to a letter, the body shall contain the following:
+- an opening
+- the content of the message
+- a signature
+
+2.1.2.1 Opening
+
+Gather some information about the recipient. Adjust the opening appropriately:
+
+- Dear Sir for a man,
+- Dear Madam for a woman,
+- Dear Kitty Cat if the recipient identifies as a cat.
+
+Avoid opening your message with /Dear Sir/ if the recipient is a woman or viceversa, /Dear Madam/ if the recipiend is a man. Do not assume the gender of your recipient based on their position.
+
+2.1.2.2 Content
+
+Remember that your recipient may not have the same culture, language and values as you. Be particularly careful with:
+- formats (numbers and dates)
+- units (miles vs kilometers for example)
+- idiomatic expressions that non-native speakers may not capture
+- humor (in particular: irony, sarcasm)
+- cultural references
+
+You an use smileys to punctuate your prose, but do not:
+- abuse of them
+- use obscure smileys
+- use them to send mixed messages
+
+Do not write in ALL CAPS as this is still CONSIDERED SHOUTING.
+Do not write in   A L L   C A P S   W I T H   S P A C E S   as this is considered shouting   W H I L E   S P E L L I N G.
+
+2.1.2.3 Signature
+
+Keep your signature short, maximum 4 lines. Do not include images in your signature. Your signature should contain basic contact information and, if relevant, your title and position.
+
+2.2 Instant Messaging
+
+When instant messaging, first be sure that you are actually engaging in a one to one communication and not broadcasting to a larger audience.
+
+
+2.3 Videoconferencing
+
+Wear pants.
+
+3.0  One-to-Many Communication (Mailing Lists, Social Media, Videoconferencing)
 
 
 4.0  Information Services (Search, Wiki)
 
+
+5.0  Broadcasting via Streaming
 
