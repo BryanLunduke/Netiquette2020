@@ -15,6 +15,19 @@ As the population using the Internet has grown dramatically over the years, and 
 
 2.0  One-to-One Communication (E-Mail, Messaging)
 
+   The original Netiquette document defines one-to-one communications as
+   those in which a person is communicating with another person as if
+   face-to-face: a dialog. In general, rules of common courtesy for 
+   interaction with people should be in force for any situation and on the 
+   Internet it's doubly important where, for example, body language and 
+   tone of voice must be inferred. Use of emojis and emoticons aren't exactly
+   good for appearing as a professional, but when one is in a dialogue, they are 
+   useful at certain times. These days we have things like text-messaging,
+   that allow for less formal, less strict communication amongst friends.
+   When one is text if messaging a friend; certain rules of Netiquette don't
+   necessarily need to be followed. One word answers and lack customs like 
+   'hello'/'goodbye' are considered accceptable in a way that isn't when 
+   communicating through electronic mail.
 
 3.0  One-to-Many Communication (Mailing Lists, Social Media)
 
